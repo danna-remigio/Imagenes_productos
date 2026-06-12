@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Carnes y embutidos",
+    "slug": "carnes-y-embutidos",
+    "icono": "https://github.com/danna-remigio/Imagenes_productos/blob/main/Categorias/Higiene_personal.png?raw=true",
+    "descripcion": "+120 productos"
+  },
+  {
+    "nombre": "Limpieza y hogar",
+    "slug": "limpieza-y-hogar",
+    "icono": "https://github.com/danna-remigio/Imagenes_productos/blob/main/Categorias/limpieza_hogar.png?raw=true",
+    "descripcion": "+85 productos"
+  },
+  {
+    "nombre": "Lácteos y huevo",
+    "slug": "lacteos-y-huevo",
+    "icono": "https://github.com/danna-remigio/Imagenes_productos/blob/main/Categorias/lacteos_huevos.png?raw=true",
+    "descripcion": "+60 productos"
+  },
+  {
+    "nombre": "Panadería",
+    "slug": "panaderia",
+    "icono": "https://github.com/danna-remigio/Imagenes_productos/blob/main/Categorias/panaderia.png?raw=true",
+    "descripcion": "+40 productos"
+  },
+  {
+    "nombre": "Bebidas",
+    "slug": "bebidas",
+    "icono": "https://github.com/danna-remigio/Imagenes_productos/blob/main/Categorias/bebidas.png?raw=true",
+    "descripcion": "+150 productos"
+  },
+  {
+    "nombre": "Abarrotes",
+    "slug": "Abarrotes",
+    "icono": "https://github.com/danna-remigio/Imagenes_productos/blob/main/Categorias/abarrotes.png?raw=true",
+    "descripcion": "+200 productos"
+  },
+  {
+    "nombre": "Higiene personal",
+    "slug": "higiene-personal",
+    "icono": "https://github.com/danna-remigio/Imagenes_productos/blob/main/Categorias/Higiene_personal.png?raw=true",
+    "descripcion": "+75 productos"
+  },
+  {
+    "nombre": "Dulces y botanas",
+    "slug": "dulces-y-botanas",
+    "icono": "https://github.com/danna-remigio/Imagenes_productos/blob/main/Categorias/botanas_duces.png?raw=true",
+    "descripcion": "+180 productos"
+  }
+]
