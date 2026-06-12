@@ -1,3 +1,4 @@
+------------CREACION DE CATEGOIAS-------------
 [
   {
     "nombre": "Carnes y embutidos",
@@ -48,3 +49,4 @@
     "descripcion": "+180 productos"
   }
 ]
+
